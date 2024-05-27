@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "722976759163",
+    "project_id": "inicio-firebase-daea-7e857",
+    "storage_bucket": "inicio-firebase-daea-7e857.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722976759163:android:d106b8561e83d151b0f1de",
+        "android_client_info": {
+          "package_name": "com.example.iniciofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722976759163-gghmemnp4pgvrnln4ujhocp6qvue06dh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg-gIDipuxkMMn0bD8mD3B0PbAzT45sas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722976759163-gghmemnp4pgvrnln4ujhocp6qvue06dh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
